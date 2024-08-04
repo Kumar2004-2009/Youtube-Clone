@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/bef6f76b-66d8-4e0b-aacf-8f9b1c59e4ef
 ## Getting Started
 To run the project locally, follow these steps:
 
-1. Clone the repository: git clone (link unavailable)
+1. Clone the repository: git clone https://github.com/Kumar2004-2009/Youtube-Clone.git
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 
