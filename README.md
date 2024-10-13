@@ -7,11 +7,11 @@ A video-sharing platform built using React, Vite, and Tailwind CSS, inspired by 
 
 https://github.com/user-attachments/assets/bef6f76b-66d8-4e0b-aacf-8f9b1c59e4ef
 
-</br>
+
 ## Tech Stack
-- Frontend Framework: React
-- Styling: Tailwind CSS
-- Video Player: React Player
+- Frontend Framework: React </br>
+- Styling: Tailwind CSS </br>
+- Video Player: React Player </br>
 - API: YouTube API (for video data)
 
 ## Features
